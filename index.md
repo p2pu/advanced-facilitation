@@ -4,11 +4,11 @@ published: true
 ---
 
 In collaboration with the Rhode Island Library Association (RILA), P2PU has developed this five-part course for individuals who want to go into more depth on facilitation beyond what is offered in [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/). The course was designed such that each module could be run as an standalone 60-90 minute workshop or run consecutively as a five-part learning circle. The five modules are:
-- <strong>[Co-facilitation](/advanced-facilitation/modules/co-facilitation/check-in)</strong>: How to lead peer learning programs. with a partner.
-- <strong>[Self-advocacy](/advanced-facilitation/modules/self-advocacy/check-in)</strong>: How to look out for yourself when running a program.
-- <strong>[Technical programs](/advanced-facilitation/modules/technical-programs/check-in)</strong>: How to lead technical programs when you’re a non-expert.
-- <strong>[Difficult Discussions](/advanced-facilitation/modules/Difficult-Discussions/check-in)</strong>: How to navigate sensitive and interpersonal topics.
-- <strong>[Safe Spaces](/advanced-facilitation/modules/Safe-Spaces/check-in)</strong>: How to balance feeling safe with feeling challenged.
+- <strong>[Co-facilitation](/advanced-facilitation/modules/co-facilitation/)</strong>: How to lead peer learning programs. with a partner.
+- <strong>[Self-advocacy](/advanced-facilitation/modules/self-advocacy/)</strong>: How to look out for yourself when running a program.
+- <strong>[Technical programs](/advanced-facilitation/modules/technical-programs/)</strong>: How to lead technical programs when you’re a non-expert.
+- <strong>[Difficult Discussions](/advanced-facilitation/modules/difficult-discussions/)</strong>: How to navigate sensitive and interpersonal topics.
+- <strong>[Safe Spaces](/advanced-facilitation/modules/safe-spaces/</strong>: How to balance feeling safe with feeling challenged.
 
 
 #### About Course-in-a-Box
