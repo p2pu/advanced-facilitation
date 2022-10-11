@@ -21,8 +21,8 @@ title: Dynamic Duo Breakouts
 
 Review one of the following popular duos (or choose your own) and explore the dynamics of their working relationship. As a pair, discuss the interpersonal dynamic between this duo, what skills and traits each bring to the relationship, and how their collective skills work (or don’t work!) together.  Lastly, discuss how this popular duo might split up their facilitation responsibilities if they were leading a program together. Remember to take notes so that you can share your thoughts with the group.
 
-**Example: Sherlock & Watson (The Specialist and the Narrator) \
-**Sherlock makes the deductions that help move the story forward. Watson is also a competent detective, but he is responsible for telling the stories. Sherlock leads conversation with support from Watson, and Watson would be responsible for taking notes and sending messages to participants.   
+**Example: Sherlock & Watson (The Specialist and the Narrator)** \
+Sherlock makes the deductions that help move the story forward. Watson is also a competent detective, but he is responsible for telling the stories. Sherlock leads conversation with support from Watson, and Watson would be responsible for taking notes and sending messages to participants.   
 
 **Popular Duos**
 
