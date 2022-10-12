@@ -47,4 +47,4 @@ Sherlock makes the deductions that help move the story forward. Watson is also a
 <br>
 ### As a Group (10mins)
 
-Share the duo you chose, what skills and traits each person brings to the relationship, and how you think they will or will not work well together as facilitators.   \
+Share the duo you chose, what skills and traits each person brings to the relationship, and how you think they will or will not work well together as facilitators.
