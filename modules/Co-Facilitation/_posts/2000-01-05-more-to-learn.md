@@ -1,5 +1,5 @@
 
-## 5. More to Learn
+##  More to Learn
 
  \
 [Learning Circles Tools to Support Co-Facilitation](https://docs.p2pu.org/teams/facilitator-support#adding-a-co-facilitator) | P2PU
@@ -14,14 +14,14 @@ This in-depth guide offers strategies for preparing, leading, and debriefing aft
 
 A five-step framework for co-facilitation. Of particular note is Step 1 “know yourself as a facilitator” which includes a worksheet on your facilitation style that you can fill out with your co-facilitator and Step 2 “Meet with your co-facilitator” that has lots of practical questions to discuss with your co-facilitator beforehand.
 
-[The Ultimate Guide to Co-Facilitation | Workshopper](https://www.workshopper.com/post/co-facilitation-guide) 
+[The Ultimate Guide to Co-Facilitation](https://www.workshopper.com/post/co-facilitation-guide) | Workshopper
 
 This guide highlights some of the challenges of co-facilitation and offers solutions that include clearly-defined roles, establishing shared goals, and debriefing after sessions.
 
-[Facilitator Co-Debriefing | Beyond Intractability](https://www.beyondintractability.org/essay/facilitator-co-debriefing)
+[Facilitator Co-Debriefing ](https://www.beyondintractability.org/essay/facilitator-co-debriefing) | Beyond Intractability
 
 This is an essay about the process of debriefing after a co-facilitation experience.  This essay provides sample debrief questions and the explanation of how these questions can further your co-facilitation as well as information about how and when you should be debriefing. 
 
-[Communities of Practice: A Facilitation Guide | Minnesota Campus Compact](http://mncampuscompact.org/wp-content/uploads/large/sites/30/2018/01/CoP-Facilitation-Manual-FINAL.pdf) **(20mb pdf)**
+[Communities of Practice: A Facilitation Guide ](http://mncampuscompact.org/wp-content/uploads/large/sites/30/2018/01/CoP-Facilitation-Manual-FINAL.pdf) | Minnesota Campus Compact **(20mb pdf)**
 
 This extensive manual connects co-facilitation as a strategy to the broader concept of building communities of practice. If you’re interested in digging deeper into building a learning community of fellow learners, this guide is a great resource.
