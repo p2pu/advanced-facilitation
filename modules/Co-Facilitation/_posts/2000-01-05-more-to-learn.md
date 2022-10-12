@@ -22,6 +22,6 @@ This guide highlights some of the challenges of co-facilitation and offers solut
 
 This is an essay about the process of debriefing after a co-facilitation experience.  This essay provides sample debrief questions and the explanation of how these questions can further your co-facilitation as well as information about how and when you should be debriefing. 
 
-[Communities of Practice: A Facilitation Guide | Minnesota Campus Compact](http://mncampuscompact.org/wp-content/uploads/large/sites/30/2018/01/CoP-Facilitation-Manual-FINAL.pdf) (**20mb pdf)**
+[Communities of Practice: A Facilitation Guide | Minnesota Campus Compact](http://mncampuscompact.org/wp-content/uploads/large/sites/30/2018/01/CoP-Facilitation-Manual-FINAL.pdf) **(20mb pdf)**
 
 This extensive manual connects co-facilitation as a strategy to the broader concept of building communities of practice. If you’re interested in digging deeper into building a learning community of fellow learners, this guide is a great resource.
