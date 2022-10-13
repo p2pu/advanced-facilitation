@@ -3,7 +3,6 @@ title: Co-Facilitation Best Practices
 ---
 
 ## Co-Facilitation Best Practices (20 min)
-<br>
 
 We just shared about our own personal skills regarding facilitation skills , but in co-facilitation each co-facilitator will bring their own strengths and weaknesses to this experience.
 
