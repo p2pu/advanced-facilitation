@@ -2,8 +2,7 @@
 title: Dynamic Duo Breakouts
 ---
 
-##  Dynamic Duo Breakout Groups (20 min, in pairs)
-<br>
+##  Dynamic Duos (20 min)
 
 **Working as co-facilitators:** There are a lot of different ways that you and your co-facilitator can divide up the responsibilities, and that dynamic will evolve based on who you facilitate with, how comfortable you are with one another, and even the subject matter you’re working through. To ensure that co-facilitation works smoothly, make sure to coordinate responsibilities beforehand. These responsibilities include, but are not limited to: 
 
