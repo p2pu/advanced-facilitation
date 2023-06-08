@@ -7,7 +7,7 @@ For this Activity let's split into small groups and take  5 minutes to first dec
 <br>
 
 *What do you want to cultivate? 
->>ex. Vulneability
+>>ex. Vulnerability
 
 *What do you want to discourage?
 >>ex. Reinforcing power dynamics
@@ -16,7 +16,7 @@ For this Activity let's split into small groups and take  5 minutes to first dec
 After 5 mins come back together as a group and share your list.
 <br>
 
-Next Spend 10 minutes working to craft statements from our quick brainstorm list that can be sharded with a group, to promote or discourage these sentiments or behaviors.
+Next Spend 10 minutes working to craft statements from our quick brainstorm list that can be shared with a group, to promote or discourage these sentiments or behaviors.
 
 
 
