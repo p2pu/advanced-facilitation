@@ -1,9 +1,9 @@
 ## Brave Space Agreements
 
-Setting the ground rules for a safe or brave space is importnat because it can help the facilitator set the intentions for the group and it also allows the facilitator to get buy in from particpates by allowing them to add to this agreement.  While you want to have participants contribute to the gound rules it is also important as a facilitator for you to set some foundational ground rules or proposed agreement.
+Setting the ground rules for a safe or brave space is importamt because it can help the facilitator set the intentions for the group and it also allows the facilitator to get buy in from participants by allowing them to add to this agreement.  While you want to have participants contribute to the ground rules it is also important as a facilitator for you to set some foundational ground rules or a proposed agreement.
 <br>
 
-For this Activity let's split into small groups and take  5 minutes to first deconstruct our ideal safe or brave spaces. By answering the following questions:  The answers can be short 
+For this Activity let's split into small groups and take  5 minutes to first deconstruct our ideal safe or brave spaces. By answering the following questions:  
 <br>
 
 *What do you want to cultivate? 
