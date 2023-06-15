@@ -9,3 +9,11 @@ In this activity we’re going to work on how to avoid burnout by identifying wh
 
 
 Individually Take 5 minutes to work through this [boundary exploration worksheet](https://www.bjclearn.org/resiliency/PDFs/043110.pdf).
+
+As a Group let's discuss:
+
+* In what areas are your boundaries more rigid?
+* In What areas are you boundaries more porous?
+* What are your healthy boundaries?
+* Were any of your answers surprising to you?
+* What do you want to work on?
